@@ -1,7 +1,9 @@
-public class expense {
+package csku.expense;
+
+public class Expense {
     private int money;
 
-    public expense(int money) {
+    public Expense(int money) {
         this.money = money;
     }
 
