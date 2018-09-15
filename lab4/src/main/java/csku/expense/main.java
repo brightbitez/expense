@@ -9,5 +9,6 @@ public class main {
         System.out.println("withdraw 600");
         expense.takeOutMoney(600);
         System.out.println("Total balance is " + expense.getMoney());
+
     }
 }
